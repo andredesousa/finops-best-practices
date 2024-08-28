@@ -1,7 +1,7 @@
 # FinOps Best Practices
 
 FinOps is an operational framework and cultural practice that enhances the business value derived from cloud technology.
-These tips are based on Nest documentation, books, articles and professional experience.
+These tips are based on official documentation, books, articles and professional experience.
 
 ## Table of Contents
 
@@ -351,13 +351,13 @@ This entails gathering feedback from teams, analysing data-driven insights, and 
 
 ## Bibliography
 
+- [6 FinOps Principles & Best Practices](https://blog.economize.cloud/finops-principles/)
+- [8 FinOps Best Practices](https://www.nops.io/blog/top-finops-practices-to-effectively-manage-cloud-costs/)
 - [10 Best Practices for FinOps](https://www.densify.com/resources/cloud-cost-management-best-practices/)
 - [10 Best Practices to Reduce Your Cloud Bill](https://www.digitalocean.com/resources/articles/cloud-cost-optimization)
 - [15 Best Practices to Reduce Your Cloud Bill](https://spot.io/resources/cloud-cost/cloud-cost-optimization-15-ways-to-optimize-your-cloud/)
 - [15 Essential FinOps Best Practices to Know](https://solutionsreview.com/cloud-platforms/the-long-list-essential-finops-best-practices-to-know/)
 - [17 Cloud Cost Optimization Best Practices](https://spacelift.io/blog/cloud-cost-optimization)
 - [20 FinOps Best Practices](https://redblink.com/finops-best-practices/)
-- [6 FinOps Principles & Best Practices](https://blog.economize.cloud/finops-principles/)
-- [8 FinOps Best Practices](https://www.nops.io/blog/top-finops-practices-to-effectively-manage-cloud-costs/)
 - [Cloud FinOps, 2nd Edition](https://www.oreilly.com/library/view/cloud-finops-2nd/9781492098348/)
 - [The 25+ Best Cloud Cost Management Tools](https://www.cloudzero.com/blog/cloud-cost-management-tools/)
